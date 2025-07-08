@@ -1,4 +1,4 @@
-# 🔐 DataSentinel
+# 🔐 DCombSentinel
 
 A secure backend CRUD system built with a focus on **data access security**, **user action logging**, and the efficient use of **Dapper** — a lightweight ORM for .NET.
 
